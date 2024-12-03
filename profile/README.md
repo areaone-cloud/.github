@@ -1,9 +1,6 @@
 <div align="center">
     <img src="https://github.com/areaone-cloud/.github/blob/main/profile/areaone_cloud_red_transp.png" />
 </div>
-<div align="center">
-    The new home for my open source projects. Excuse the mess while I move projects from my uni account 😑
-</div>
 </br>
 
 <div align="center">
